@@ -15,8 +15,6 @@ This repository demonstrates an **end-to-end data engineering pipeline** using t
 - **Data warehousing** with Azure Synapse Analytics.
 - **Interactive dashboards** using Power BI for actionable insights.
 
-A similar setup using AdventureWorks (LT) in Azure pipelines is outlined in this example project :contentReference[oaicite:0]{index=0}.
-
 ---
 
 ## Architecture
