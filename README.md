@@ -30,10 +30,14 @@ Silver → Gold Layer (Clean & Curated)
         ↓ (Synapse SQL & Analytics)  
 Azure Synapse Analytics (Warehousing)  
         ↓ (Visualization)  
-Power BI Dashboard  
+Power BI Dashboard
+
+```
 
 
-Project Structure
+## Project Structure
+
+```text
 ├── 0_datasets/                # AdventureWorks backup files (.bak)
 ├── azure-data-factory/        # ADF pipeline JSON definitions
 ├── databricks/                # PySpark notebooks (bronze→silver→gold)
@@ -41,6 +45,7 @@ Project Structure
 ├── powerbi/                   # PBIX Power BI dashboard (if included)
 ├── README.md                  # Project documentation
 └── LICENSE                    # MIT License
+```
 
 Author
 
